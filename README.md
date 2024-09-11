@@ -1,4 +1,4 @@
-#A liberdade consiste em fazer o que se deseja
+# A liberdade consiste em fazer o que se deseja
 
 Gosto de RPG de mesa
 
